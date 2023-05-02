@@ -1,6 +1,5 @@
-<h3 align="center">2016 Roblox Revival</h3>
+# 2016 Roblox Revival
 
-<h3 align="left">Project for reviving 2016 roblox</h3>
-<p align="left">
-</p>
-Files by [mapled](https://Rufus.ie)
+Revival of old Roblox from 2016
+
+Files by [mapled]([https://Rufus.ie](https://www.youtube.com/@m9x__8785)
